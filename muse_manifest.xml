@@ -1,7 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fdfsd.com" resolutions="1x" timestamp="1534377653637">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fdfsd.com" resolutions="1x" timestamp="1534378326094">
+  <folder name="assets">
+    <file name="rubix-loader.gif" crc="4235615436" seo="true" mt="1530961533000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4079800232" ref="index"/>
+    <file name="index.css" crc="3880856190" ref="index"/>
+    <file name="master_a-master.css" crc="444473815" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,5 +22,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3993374197" seo="true" mt="1534377587580" redirect="true"/>
+  <file name="index.html" crc="3882261410" seo="true" mt="1534378229509" redirect="true"/>
 </manifest>
